@@ -1,11 +1,11 @@
 README
 
-This project is part of the Mozilla Learn Web Development series. The goal of this project was to demonstrate responsive images using HTML5 Viewport capabilities and embedded video. Two techniques are employed:
+This project is part of the Mozilla 'Learn Web Development' series. The goal of this project was to demonstrate responsive images using HTML5 Viewport capabilities and embedded video. Two techniques are employed:
 
-	1. Resolution switching - this technique is applied to the four mozilla icons displayed just below the header and detects the device be used and then selects the appropriate sized image.
+	1. Resolution switching - this technique is applied to the four mozilla icons displayed just below the header and detects the device being used and then selects the appropriate size image.
 
-	2. The second technique solves the 'art direction' problem. This technique is applied to the red panda image at the bottom of the page. When a mobile device or maybe a tablet is being used to veiw the page the image displayed is a cropped image and not a smaller resolution image because the focus of the image is the red panda.
+	2. The second technique solves the 'art direction' problem. This technique is applied to the red panda image at the bottom of the page. When a mobile device, or maybe a tablet, is being used to veiw the page the image displayed is a cropped image, instead of the full landscape image, and not a smaller resolution image because the focus of the image is the red panda.
 
-The third goal was to demonstrate embedding video using <iframe>. 
+The third goal was to demonstrate embedded video using <iframe>. 
 
-Most of the html and all of the CSS code was provided to me as part of the project. My part of the development included only the responsive images part of the html.
+Most of the html and all of the CSS code was provided as part of the project. My part of the development included only the responsive images part of the html.
