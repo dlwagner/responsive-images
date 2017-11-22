@@ -9,3 +9,6 @@ This project is part of the Mozilla 'Learn Web Development' series. The goal of 
 The third goal was to demonstrate embedded video using <iframe>. 
 
 Most of the html and all of the CSS code was provided as part of the project. My part of the development included only the responsive images part of the html.
+
+TODO:
+	- publish to gh-pages and verify everything mentioned above works from desktop and mobile platforms.
